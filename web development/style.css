@@ -1,0 +1,121 @@
+.base{
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+        }
+        .non{
+            background-color: rgb(123, 0, 255);
+            display: flex;
+            justify-content: space-between;
+           padding: 10px 10px;
+        }
+        .header a {
+            color: rgb(255, 255, 255);
+            padding: 20px;
+            text-decoration: none;
+            border-radius: 15px;
+        } 
+        .header a:hover{
+            color: rgb(0, 58, 108);
+        }
+        .header button{
+            background-color: rgb(226, 43, 43);
+            color: black;
+            border: none;
+            border-radius: 20px;
+        }
+        .header button:hover{
+            background-color: rgb(213, 96, 96);
+        }
+        .landing{
+            background-color: rgb(63, 0, 122);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+            border-radius: 0 0 30px 30px;
+            padding: 25px 50px;
+        }
+        .landing-badg-ssess input {
+
+            border-radius: 50px;
+            border: none;
+        outline: none;
+        height: 30px; 
+    padding: 0 10px;
+        
+        }
+        .landing-badg-ssess-btn  { 
+            background-color: rgb(226, 43, 43);
+            color: black;
+            border: none;
+            border-radius: 20px;
+             outline: none;
+            height: 30px; 
+        padding: 0 10px;
+        position: absolute;
+        left: 180px;
+
+        }
+        .landing-badg-ssess-btn:hover{
+background-color:  rgb(213, 96, 96);
+
+        }
+        .landing-badg-ssess-image img {
+            border-radius: 20px;
+        }
+        .trd-header-2{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: rgb(0, 0, 0);
+            border-radius: 0 0 30px 30px;
+}
+        .trd-btn{ 
+              background-color: rgb(226, 43, 43);
+            color: black;
+            border: none;
+            border-radius: 20px;
+             outline: none;
+            height: 30px; 
+        padding: 0 10px;
+
+        }
+        .trd-btn:hover{
+            background-color:  rgb(213, 96, 96);
+        }
+        .trd-header-2 h1{
+            margin: 0px;
+        }
+        .trd-3 {
+color: red;
+text-transform: uppercase;
+        }
+        .card{
+            width: 200px;
+            background-color: rgb(209, 209, 209);
+            border-radius: 20px;
+        }
+        .card-info{
+            display: flex;
+            justify-content: space-between;
+            padding: 5px 2px;
+            align-items: center;
+           
+        }
+        .card .the{
+            border-radius: 20px 20px 0 0;
+        }
+        .trd-cards{
+            display: flex;
+            gap: 5px;
+        }
+        .fon{
+            text-transform: uppercase;
+            margin: 0px;
+            justify-content: space-between;
+        }.fon-2{
+            color: red;
+            margin: 0px;
+        }
+
+        
